@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#50fe00</color>
+    <color name="red">#D32F2F</color>
+    <color name="dark_gray">#a9a9a9</color>
+
+    <color name="goldDark">#D8944F</color>
+
+    <color name= "greenGray">#1A3337</color>
+    <color name="redDark">#5e0f0f</color>
+
+    <color name="lightYellow">#E0E0E0</color>
+    <color name="goldAccent">#d4c290</color>
+    <color name="goldDarkAccent">#B8860B</color>
+
+</resources>
